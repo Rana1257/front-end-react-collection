@@ -2,7 +2,7 @@ import React from 'react';
 import {Button} from 'antd';
 import logo from './logo.svg';
 import 'antd/dist/antd.less';
-import './App.css';
+import './App.less';
 
 class App extends React.Component {
   render(): React.ReactNode {
