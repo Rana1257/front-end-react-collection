@@ -9,6 +9,15 @@
   font-size: 45px;
 }
 
+.App-subTitle {
+  color: #61DAFB;
+  font-size: 24px;
+}
+
+.App-button {
+  margin-bottom: 50px;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
